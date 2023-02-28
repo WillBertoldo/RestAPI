@@ -1,4 +1,4 @@
-package com.williambertoldo.cadastro.entity;
+package com.williambertoldo.apirest.entity;
 
 import java.io.Serializable;
 import java.util.Date;

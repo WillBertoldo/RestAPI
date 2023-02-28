@@ -1,10 +1,10 @@
-package com.williambertoldo.cadastro;
+package com.williambertoldo.apirest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CadastroApplicationTests {
+class apirestApplicationTests {
 
 	@Test
 	void contextLoads() {

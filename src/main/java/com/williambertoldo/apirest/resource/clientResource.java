@@ -1,4 +1,4 @@
-package com.williambertoldo.cadastro.resource;
+package com.williambertoldo.apirest.resource;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.williambertoldo.cadastro.entity.Client;
-import com.williambertoldo.cadastro.repository.clientRepository;
+import com.williambertoldo.apirest.entity.Client;
+import com.williambertoldo.apirest.repository.clientRepository;
 
 @RestController
 @RequestMapping(value="/api")

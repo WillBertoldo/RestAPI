@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.williambertoldo</groupId>
-	<artifactId>cadastro</artifactId>
+	<artifactId>apirest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cadastro</name>
-	<description>Cadastro de clientes</description>
+	<name>apirest</name>
+	<description>apirest de clientes</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
